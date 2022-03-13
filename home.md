@@ -2,7 +2,7 @@
 title: Айтида
 description: Документация по Айтида 4
 published: true
-date: 2022-03-13T23:43:48.545Z
+date: 2022-03-13T23:52:21.888Z
 tags: айтида, документация
 editor: markdown
 dateCreated: 2022-03-13T20:08:41.922Z
@@ -55,5 +55,3 @@ dateCreated: 2022-03-13T20:08:41.922Z
 - [:bulb: Suggest a New Feature *We need your ideas!*](https://requests.requarks.io/wiki)
 - [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](https://js.wiki/donate)
 {.links-list}
-
-![itida.ru](https://itida.ru/images/logo/logo_horizon_v3.svg){.align-abstopright}
