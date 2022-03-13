@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-03-13T23:44:10.840Z
+date: 2022-03-13T23:53:43.599Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
@@ -36,5 +36,3 @@ dateCreated: 2022-03-13T22:20:10.958Z
 {.is-info}
 
 При условии, что на компьютере нет экземпляра MS SQL Сервера с именем SQLEXPRESS, начнется установка серверной части.
-
-![itida.ru](https://itida.ru/images/logo/logo_horizon_v3.svg){.align-abstopright}
