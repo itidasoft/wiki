@@ -2,7 +2,7 @@
 title: Дубль
 description: тест
 published: true
-date: 2022-03-14T13:30:30.478Z
+date: 2022-03-14T13:31:27.740Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-14T13:25:14.442Z
@@ -37,10 +37,12 @@ dateCreated: 2022-03-14T13:25:14.442Z
 >  
 > 
 > ![sa-password-promt.png](/quick-start/sa-password-promt.png)
+{.is-info}
+
 
 При условии, что на компьютере нет экземпляра MS SQL Сервера с именем SQLEXPRESS, начнется установка серверной части.
 
-```javascript
+```cpp
 const x = 1
 const y = 2
 const z = x + y
