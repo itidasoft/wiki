@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2022-03-14T08:39:45.027Z
+date: 2022-03-14T08:40:03.580Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-13T23:41:11.623Z
@@ -12,8 +12,7 @@ dateCreated: 2022-03-13T23:41:11.623Z
 Your content here
 
 
-`
-//Чтение штрихового кода СКАНЕРОМ ШК в документе.
+`//Чтение штрихового кода СКАНЕРОМ ШК в документе.
 //В приходной накладной ищем товар по ШК и увеличиваем реальное количество
 IF ( КодОбъекта == "001" )
 {
@@ -41,6 +40,5 @@ IF ( КодОбъекта == "002" )
 	RETURN true;
 }	
 _DODEFAULT= true;
-RETURN true;
-`
+RETURN true;`
 	
