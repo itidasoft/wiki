@@ -2,7 +2,7 @@
 title: Айтида
 description: Документация по Айтида 4
 published: true
-date: 2022-03-14T06:21:02.415Z
+date: 2022-03-20T21:33:50.421Z
 tags: айтида, документация
 editor: markdown
 dateCreated: 2022-03-13T20:08:41.922Z
@@ -20,24 +20,18 @@ dateCreated: 2022-03-13T20:08:41.922Z
 - [:rocket: Руководство по быстрому запуску *Системные требования, порядок установки, активации и настройки программного продукта Айтида*](/quick-start)
 - [:busts_in_silhouette: Руководство пользователя *Полное руководство по для пользователя программного продукта Айтида*](/user-guide)
 - [:wrench: Руководство администратора *Руководство для администраторов и внедренцев*](/admin-guide/structure)
-- [Manage Pages *How to create, edit and manage your pages.*](/guide/pages)
-- [Using Editors *Learn how to use the various editors.*](/editors)
-- [Using Assets *How to upload and manage assets such as images and documents.*](/guide/assets)
-{.links-list}
-
-# Методические рекомендации
-- [:globe_with_meridians: Translations *Contribute a new language or test new keys*](/dev/translations)
+- [:book: Методические рекомендации *Руководство по методике ведения учета*](/metodology)
 {.links-list}
 
 
 # Руководства по Модулям
 Дополнительные модули, встроенные в программный продукт Айтида и доступные в зависимости от используемой лицензии
-- [:lock: Модуль ЕГАИС *Содержит руководство по настройке и работе с модулем ЕГАИС.*](/egais)
-- [:speech_balloon: ЭДО *Настройка и использование модуля ЭДО.*](/edi)
-- [:pencil: Маркировка *Настройка и работа с модулем Маркировка .*](/marking)
-- [:clipboard: Меркурий *Forward logs to external logging services.*](/mercury)
-- [:hourglass: 54-ФЗ *Configure how content is parsed and rendered into its readable form.*](/fz54)
-- [:stew: Производство *Руководство по модулю производства (выпуск продукции, ттк, калькуляции...)*](/prz)
+- [![egais_64x64.png](/mainpage/egais_64x64.png) Модуль ЕГАИС *Содержит руководство по настройке и работе с модулем ЕГАИС.*](/egais)
+- [![edi64.png](/mainpage/edi64.png) ЭДО *Настройка и использование модуля ЭДО.*](/edi)
+- [![markirovka.png](/mainpage/markirovka.png) Маркировка *Настройка и работа с модулем Маркировка .*](/marking)
+- [![меркурий-россельхознадзор.png](/mainpage/меркурий-россельхознадзор.png) Меркурий *Forward logs to external logging services.*](/mercury)
+- [![ofd-64.png](/mainpage/ofd-64.png) 54-ФЗ *Configure how content is parsed and rendered into its readable form.*](/fz54)
+- [![ico-menu.png](/mainpage/ico-menu.png) Производство *Руководство по модулю производства (выпуск продукции, ттк, калькуляции...)*](/prz)
 {.links-list}
 
 # Конфигурирование
