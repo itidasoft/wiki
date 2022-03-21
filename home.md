@@ -2,7 +2,7 @@
 title: Айтида
 description: Документация по Айтида 4
 published: true
-date: 2022-03-21T07:02:33.712Z
+date: 2022-03-21T07:39:50.493Z
 tags: айтида, документация
 editor: markdown
 dateCreated: 2022-03-13T20:08:41.922Z
@@ -27,11 +27,11 @@ dateCreated: 2022-03-13T20:08:41.922Z
 
 # Руководства по Модулям
 Дополнительные модули, встроенные в программный продукт Айтида и доступные в зависимости от используемой лицензии
-- [![egais_64x64.png](/mainpage/egais_64x64.png) Модуль ЕГАИС *Содержит руководство по настройке и работе с модулем ЕГАИС.*](/egais)
-- [![edi64.png](/mainpage/edi64.png) ЭДО *Настройка и использование модуля ЭДО.*](/edi)
-- [![markirovka.png](/mainpage/markirovka.png) Маркировка *Настройка и работа с модулем Маркировка .*](/marking)
-- [![меркурий-россельхознадзор.png](/mainpage/меркурий-россельхознадзор.png) Меркурий *Forward logs to external logging services.*](/mercury)
-- [![ofd-64.png](/mainpage/ofd-64.png) 54-ФЗ *Configure how content is parsed and rendered into its readable form.*](/fz54)
+- [![egais_64x64.png](/mainpage/egais_64x64.png) Модуль ЕГАИС *Инструкция по подключению и настройке модуля ЕГАИС.*](/egais)
+- [![edi64.png](/mainpage/edi64.png) ЭДО *Инструкция по подключению и настройке модуля ЭДО.*](/edi)
+- [![markirovka.png](/mainpage/markirovka.png) Маркировка *Инструкция по подключению и настройке модуля Маркировка.*](/marking)
+- [![меркурий-россельхознадзор_small.png](/mainpage/меркурий-россельхознадзор_small.png) Меркурий *Инструкция по подключению и настройке модуля Меркурий.*](/mercury)
+- [![ofd-64.png](/mainpage/ofd-64.png) 54-ФЗ *Методика по работе с Айтидой в соответствии с 54-ФЗ.*](/fz54)
 {.links-list}
 
 # Конфигурирование
