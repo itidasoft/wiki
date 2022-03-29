@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-03-21T06:51:22.652Z
+date: 2022-03-29T23:13:54.919Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
@@ -25,14 +25,14 @@ dateCreated: 2022-03-13T22:20:10.958Z
 ## Полная установка ПП Айтида
 Процесс установки осуществляется запуском программы ISetup.exe:
 
-![enter-license.png](/quick-start/enter-license.png)
+![enter-license.png](/images/quick-start/enter-license.png)
 
 В появившемся окне необходимо ввести ключ для активации лицензии и ее номер. Затем, нажать на кнопку полной установки продукта.
 
-![full-install.png](/quick-start/full-install.png)
+![full-install.png](/images/quick-start/full-install.png)
 
 > Примечание! Если на компьютере, на который производится установка, установлен и запущен MS SQL Server с именем экземпляра SQLEXPRESS, то программа установки запросит пароль sa. Пароль по умолчанию – Itida2017.
-![sa-password-promt.png](/quick-start/sa-password-promt.png)
+![sa-password-promt.png](/images/quick-start/sa-password-promt.png)
 {.is-info}
 
 При условии, что на компьютере нет экземпляра MS SQL Сервера с именем SQLEXPRESS, начнется установка серверной части.
