@@ -2,7 +2,7 @@
 title: Начало работы 2
 description: Начало работы с программой. Первичное заполнение данных
 published: true
-date: 2022-04-02T22:06:33.719Z
+date: 2022-04-02T22:07:31.128Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-02T22:06:09.720Z
