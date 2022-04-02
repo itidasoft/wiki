@@ -2,7 +2,7 @@
 title: Айтида
 description: Документация по Айтида 4
 published: true
-date: 2022-03-29T23:13:21.523Z
+date: 2022-04-02T20:15:33.381Z
 tags: айтида, документация
 editor: markdown
 dateCreated: 2022-03-13T20:08:41.922Z
@@ -41,6 +41,7 @@ dateCreated: 2022-03-13T20:08:41.922Z
 - [:book: Getting Started *How to setup a dev environment for Wiki.js.*](/dev)
 - [:closed_book: Modules *Learn how to create a module.*](/dev/modules)
 - [:art: Themes *Learn how to create your own theme.*](/dev/themes)
+- :art: Themes *Learn how to create your own theme.*[Производство](/docs/home/Производство)
 {.links-list}
 
 # Обратная связь
