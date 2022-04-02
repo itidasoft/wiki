@@ -2,7 +2,7 @@
 title: Айтида
 description: Документация по Айтида 4
 published: true
-date: 2022-04-02T20:17:56.185Z
+date: 2022-04-02T20:33:32.723Z
 tags: айтида, документация
 editor: markdown
 dateCreated: 2022-03-13T20:08:41.922Z
@@ -38,14 +38,12 @@ dateCreated: 2022-03-13T20:08:41.922Z
 
 Программные продукты Айтида доступны для конфигурирования, благодаря чему достигается гибкая настройка практически под любые требования.
 
-- [:book: Getting Started *How to setup a dev environment for Wiki.js.*](/dev)
-- [:closed_book: Modules *Learn how to create a module.*](/dev/modules)
-- [:art: Themes *Learn how to create your own theme.*](/dev/themes)
+- 
 {.links-list}
 
 # Обратная связь
-- [:question: Ask a Question *We're here to help.*](https://github.com/Requarks/wiki/discussions)
-- [:fire: Report a Bug *Help us squash those pesky bugs.*](https://github.com/Requarks/wiki/discussions)
-- [:bulb: Suggest a New Feature *We need your ideas!*](https://requests.requarks.io/wiki)
-- [:moneybag: Donate *Make a small donation or become a sponsor of this wonderful project!*](https://js.wiki/donate)
+- [:question: Задать вопрос *Помощь.*](https://itida.ru/company/contact#feedback)
+- [:fire: Сообщить об ошибке *Давайте вместе сделаем наши приложения лучше.*](https://github.com/itidasoft/wiki/discussions)
+- [:bulb: Предложить новую функцию *Поделитесь вашими идеями*](https://github.com/itidasoft/wiki/discussions)
+- [:ballot_box_with_check: Тех поддержка для партнёров нашей компании *Доступ только для зарегистрированных партнёров!*](https://itida.intraservice.ru)
 {.links-list}
