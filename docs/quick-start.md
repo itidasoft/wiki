@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-04-03T09:49:38.694Z
+date: 2022-04-03T09:50:36.299Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
