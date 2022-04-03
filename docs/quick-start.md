@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-04-03T09:44:33.732Z
+date: 2022-04-03T09:49:38.694Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
@@ -27,6 +27,9 @@ dateCreated: 2022-03-13T22:20:10.958Z
 # Основные сведения о работе с программой Айтида
 
 -	[Инструкция по начальной настройке программы](/docs/quick-start/initial-settings)
+-	[Параметры системы](/docs/quick-start/system-settings)
+-	[Параметры пользователя](/docs/quick-start/user-settings)
+-	[Подключение сканера штрихкодов](/docs/quick-start/barcode-scaner)
 {.links-list}
 
 # Справочники
