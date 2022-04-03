@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-04-03T10:36:41.623Z
+date: 2022-04-03T11:51:09.991Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
@@ -28,6 +28,7 @@ dateCreated: 2022-03-13T22:20:10.958Z
 
 -	[Параметры системы](/docs/quick-start/system-settings)
 -	[Параметры пользователя](/docs/quick-start/user-settings)
+-	[Локальное оборудование рабочего места](/docs/quick-start/local-devices)
 -	[Подключение сканера штрихкодов](/docs/quick-start/barcode-scaner)
 {.links-list}
 
