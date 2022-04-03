@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-04-02T22:09:44.921Z
+date: 2022-04-03T09:36:17.013Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
@@ -21,6 +21,8 @@ dateCreated: 2022-03-13T22:20:10.958Z
 # Начало работы
 
 -	[Инструкция по начальному заполнению данных в программе](/docs/quick-start/initial-filling)
+-	[Загрузка товаров](/docs/quick-start/goods-import)
+-	[Установка цен продажи](/docs/quick-start/goods-revaluation)
 {.links-list}
 
 # Основные сведения о работе с программой Айтида
