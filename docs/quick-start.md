@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-04-03T09:50:36.299Z
+date: 2022-04-03T10:04:24.133Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
@@ -26,7 +26,6 @@ dateCreated: 2022-03-13T22:20:10.958Z
 
 # Основные сведения о работе с программой Айтида
 
--	[Инструкция по начальной настройке программы](/docs/quick-start/initial-settings)
 -	[Параметры системы](/docs/quick-start/system-settings)
 -	[Параметры пользователя](/docs/quick-start/user-settings)
 -	[Подключение сканера штрихкодов](/docs/quick-start/barcode-scaner)
@@ -34,7 +33,15 @@ dateCreated: 2022-03-13T22:20:10.958Z
 
 # Справочники
 
--	[Описание основных справочников системы](/docs/quick-start/references)
+-	[Справочник денежных карманов *Кассы и расчетные счета организации*](/docs/quick-start/money-pocket)
+-	[Справочник складов *Торговые точки и места хранения товаров*](/docs/quick-start/warehouses)
+-	[Справочник банков *Банки*](/docs/quick-start/banks)
+-	[Справочник расчетных счетов *Расчетные счета огранизации*](/docs/quick-start/payment-accounts)
+-	[Справочник фирм *Собственные юридические лица и ИП*](/docs/quick-start/firms)
+-	[Справочник контрагентов *Покупатели и поставщики*](/docs/quick-start/clients)
+-	[Группы ресурсов *Группы товаров*](/docs/quick-start/groups)
+-	[Справочник товаров *Товары, дополнительные характеристики (разрезы)*](/docs/quick-start/goods)
+
 {.links-list}
 
 # Подключение оборудования
