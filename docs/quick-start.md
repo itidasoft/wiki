@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-04-03T12:45:52.824Z
+date: 2022-04-03T12:47:40.621Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
@@ -42,7 +42,7 @@ dateCreated: 2022-03-13T22:20:10.958Z
 -	[Справочник контрагентов *Покупатели и поставщики*](/docs/quick-start/clients)
 -	[Группы ресурсов *Группы товаров*](/docs/quick-start/groups)
 -	[Справочник товаров *Товары*](/docs/quick-start/goods)
--	[Дополнительные характеристики (разрезы) *цвета, размеры, вкусы...*](/docs/quick-start/goods)
+-	[Дополнительные характеристики (разрезы) *цвета, размеры, вкусы...*](/docs/quick-start/characteristics)
 
 {.links-list}
 
