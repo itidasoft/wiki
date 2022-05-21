@@ -2,7 +2,7 @@
 title: Справочник товаров
 description: 
 published: true
-date: 2022-04-03T12:46:16.518Z
+date: 2022-04-03T12:46:19.027Z
 tags: товары, продукты, готовая продукция, ингредиенты, полуфабрикаты
 editor: markdown
 dateCreated: 2022-04-03T12:38:46.063Z

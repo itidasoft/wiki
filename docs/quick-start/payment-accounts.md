@@ -2,7 +2,7 @@
 title: Справочник расчетных счетов
 description: 
 published: true
-date: 2022-04-03T12:12:13.130Z
+date: 2022-04-03T12:12:15.614Z
 tags: расчетный счет
 editor: markdown
 dateCreated: 2022-04-03T12:12:13.130Z

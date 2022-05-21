@@ -2,7 +2,7 @@
 title: Справочник контрагентов
 description: 
 published: true
-date: 2022-04-03T12:16:31.150Z
+date: 2022-04-03T12:16:33.775Z
 tags: покупатели, поставщики, клиенты, контрагенты
 editor: markdown
 dateCreated: 2022-04-03T12:16:31.150Z

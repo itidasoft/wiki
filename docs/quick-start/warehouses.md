@@ -2,7 +2,7 @@
 title: Справочник складов
 description: 
 published: true
-date: 2022-04-03T12:07:10.456Z
+date: 2022-04-03T12:07:13.067Z
 tags: склады, места хранения, торговые точки
 editor: markdown
 dateCreated: 2022-04-03T12:07:10.456Z

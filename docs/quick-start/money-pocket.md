@@ -2,7 +2,7 @@
 title: Справочник денежных карманов
 description: 
 published: true
-date: 2022-04-03T12:04:32.078Z
+date: 2022-04-03T12:04:34.620Z
 tags: деньги, карманы, кассы
 editor: markdown
 dateCreated: 2022-04-03T12:04:32.078Z

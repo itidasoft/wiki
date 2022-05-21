@@ -2,7 +2,7 @@
 title: Подключение сканера ШК
 description: 
 published: true
-date: 2022-04-03T12:00:45.668Z
+date: 2022-04-03T12:00:48.193Z
 tags: сканер шк, подключение оборудования
 editor: markdown
 dateCreated: 2022-04-03T12:00:45.668Z

@@ -2,7 +2,7 @@
 title: Дополнительные характеристики (разрезы)
 description: 
 published: true
-date: 2022-04-03T12:53:30.447Z
+date: 2022-04-03T12:53:32.879Z
 tags: разрезы, характеристики
 editor: markdown
 dateCreated: 2022-04-03T12:53:30.447Z

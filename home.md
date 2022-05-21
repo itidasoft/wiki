@@ -2,7 +2,7 @@
 title: Айтида
 description: Документация по Айтида 4
 published: true
-date: 2022-04-03T12:45:23.854Z
+date: 2022-04-03T12:45:26.348Z
 tags: айтида, документация
 editor: markdown
 dateCreated: 2022-03-13T20:08:41.922Z

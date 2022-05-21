@@ -2,7 +2,7 @@
 title: Активация
 description: активация лицензии
 published: true
-date: 2022-04-02T20:57:40.029Z
+date: 2022-04-02T20:57:42.668Z
 tags: лицензия, активация
 editor: markdown
 dateCreated: 2022-04-02T20:57:40.029Z

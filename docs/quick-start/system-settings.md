@@ -2,7 +2,7 @@
 title: Параметры системы
 description: Настройка основных параметров системы
 published: true
-date: 2022-04-03T09:51:54.576Z
+date: 2022-04-03T09:51:57.136Z
 tags: параметры, настройка системы
 editor: markdown
 dateCreated: 2022-04-03T09:51:54.576Z

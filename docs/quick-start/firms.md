@@ -2,7 +2,7 @@
 title: Справочник фирм
 description: 
 published: true
-date: 2022-04-03T12:14:10.375Z
+date: 2022-04-03T12:14:12.978Z
 tags: организации, фирмы, свои юрлица
 editor: markdown
 dateCreated: 2022-04-03T12:14:10.375Z

@@ -2,7 +2,7 @@
 title: Справочник банков
 description: 
 published: true
-date: 2022-04-03T12:09:32.077Z
+date: 2022-04-03T12:09:34.730Z
 tags: банк
 editor: markdown
 dateCreated: 2022-04-03T12:09:32.077Z

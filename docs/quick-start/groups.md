@@ -2,7 +2,7 @@
 title: Группы ресурсов
 description: 
 published: true
-date: 2022-04-03T12:22:46.134Z
+date: 2022-04-03T12:22:48.693Z
 tags: группы товаров, ресурсы, группы
 editor: markdown
 dateCreated: 2022-04-03T12:22:46.134Z
