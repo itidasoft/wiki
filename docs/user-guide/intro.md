@@ -2,7 +2,7 @@
 title: Введение
 description: Руководство пользователя - Введение
 published: true
-date: 2022-05-28T20:32:51.961Z
+date: 2022-05-28T20:33:27.535Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-28T20:09:16.676Z
@@ -44,16 +44,3 @@ dateCreated: 2022-05-28T20:09:16.676Z
 {.is-success}
 
 > Информация, выделенная таким знаком, предназначена исключительно для администратора, производящего установку и настройку.
-
-# Tabs {.tabset}
-## First Tab
-
-Any content here will go into the first tab...
-
-## Second Tab
-
-Any content here will go into the second tab...
-
-## Third Tab
-
-Any content here will go into the third tab...
