@@ -2,14 +2,14 @@
 title: Руководство пользователя
 description: Руководство пользователя Айтида
 published: true
-date: 2022-05-29T12:35:18.974Z
+date: 2022-05-29T13:45:27.762Z
 tags: пользователь, руководство, инструкция
 editor: markdown
 dateCreated: 2022-03-13T22:58:58.269Z
 ---
 
 
--	[Введение](/docs/user-guide/intro)
+-	[Введение](/docs/user-guide/intro/intro.md)
 -	[Запуск ПП Айтида](/docs/user-guide/launch)
 -	[Основные сведения о работе](/docs/user-guide/basic)
 -	[Экспорт и импорт](/docs/user-guide/impexp)
