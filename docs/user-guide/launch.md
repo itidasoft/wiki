@@ -2,7 +2,7 @@
 title: Запуск Айтида
 description: Руководство пользователя - запуск Айтида
 published: true
-date: 2022-05-29T12:42:29.629Z
+date: 2022-05-29T12:42:32.232Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-28T21:53:37.871Z

@@ -2,7 +2,7 @@
 title: Основные сведения о работе
 description: Руководство пользователя
 published: true
-date: 2022-05-29T12:44:43.464Z
+date: 2022-05-29T12:44:46.403Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-29T11:30:25.958Z

@@ -2,7 +2,7 @@
 title: Введение
 description: Руководство пользователя - Введение
 published: true
-date: 2022-05-29T12:39:07.423Z
+date: 2022-05-29T12:39:09.895Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-28T20:09:16.676Z

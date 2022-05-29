@@ -2,7 +2,7 @@
 title: Установка цен продажи
 description: Установка цен продажи и выгрузка в кассу
 published: true
-date: 2022-05-28T19:33:51.334Z
+date: 2022-05-28T19:33:53.869Z
 tags: установка цен, выгрузка в кассу, frontol
 editor: markdown
 dateCreated: 2022-04-03T09:40:59.214Z
