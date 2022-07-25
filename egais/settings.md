@@ -2,7 +2,7 @@
 title: Настройка модуля ЕГАИС
 description: Руководство по модулю ЕГАИС
 published: true
-date: 2022-07-25T22:02:33.854Z
+date: 2022-07-25T22:02:36.027Z
 tags: егаис, настройка модуля
 editor: markdown
 dateCreated: 2022-07-25T21:57:52.969Z

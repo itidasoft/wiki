@@ -2,7 +2,7 @@
 title: Базовые руководства
 description: Руководства по программному обеспечению Айтида
 published: true
-date: 2022-06-24T19:19:03.297Z
+date: 2022-06-24T19:19:05.763Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-24T19:19:03.297Z

@@ -2,7 +2,7 @@
 title: Отчёты
 description: Руководство пользователя
 published: true
-date: 2022-07-25T19:51:38.184Z
+date: 2022-07-25T19:51:41.404Z
 tags: отчёты, генератор отчетов, аналитика
 editor: markdown
 dateCreated: 2022-07-25T18:03:15.046Z
