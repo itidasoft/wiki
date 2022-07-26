@@ -2,7 +2,7 @@
 title: Руководство администратора
 description: Руководство по настройке программы Айтида
 published: true
-date: 2022-07-26T06:38:14.438Z
+date: 2022-07-26T06:39:31.837Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-20T21:07:46.383Z
@@ -12,9 +12,9 @@ dateCreated: 2022-03-20T21:07:46.383Z
 
 ```mermaid
 pie
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+    title Продажи по отделам
+    "Алкоголь" : 42.96
+    "Мясной отдел" : 50.05
+    "Табачная лавка" : 10.01
+    "Бакалея" :  5
 ```
