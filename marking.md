@@ -2,10 +2,13 @@
 title: Модуль Айтида: Маркировка
 description: 
 published: true
-date: 2022-04-03T12:42:24.056Z
+date: 2022-07-29T22:03:30.305Z
 tags: маркировка
 editor: markdown
 dateCreated: 2022-04-03T12:42:21.673Z
 ---
 
-# В разработке
+-	[Настройка модуля Маркировка](/marking/settings)
+-	[Работа с модулем Маркировка](/marking/working)
+-	[Работа с системами ЭДО](/marking/edi)
+{.links-list}
