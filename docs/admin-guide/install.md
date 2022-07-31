@@ -2,7 +2,7 @@
 title: Установка программного обеспечения Айтида и установка SQL сервер
 description: Установка Айтида и SQL
 published: true
-date: 2022-07-31T21:33:49.542Z
+date: 2022-07-31T21:36:20.425Z
 tags: установка, sql, внедрение
 editor: markdown
 dateCreated: 2022-07-31T21:20:35.167Z
@@ -304,4 +304,4 @@ Microsoft SQL Server (SQL Server Express) – это мощная и надеж�
 
 ![2013-04-22_120139.png](/images/admin-guide/install/a2be3257b8b85b68e05e3795f9741933.png)
 
-Если не удается удалить экземпляр SQL Server, то воспользуйтесь [пошаговой инструкцией](https://docs.microsoft.com/ru-ru/sql/relational-databases/manage/remove-an-instance-of-sql-server-from-the-sql-server-utility?view=sql-server-ver15) базы знаний корпорации Майкрософт.
+Если не удается удалить экземпляр SQL Server, то воспользуйтесь [пошаговой инструкцией](https://docs.microsoft.com/ru-ru/sql/sql-server/install/uninstall-an-existing-instance-of-sql-server-setup) базы знаний корпорации Майкрософт.
