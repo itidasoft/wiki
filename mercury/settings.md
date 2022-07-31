@@ -2,7 +2,7 @@
 title: Настройка модуля Меркурий в Айтиде
 description: Меркурий - настройка
 published: true
-date: 2022-07-31T12:04:47.090Z
+date: 2022-07-31T12:04:49.739Z
 tags: настройка, меркурий
 editor: markdown
 dateCreated: 2022-07-31T11:54:54.165Z
