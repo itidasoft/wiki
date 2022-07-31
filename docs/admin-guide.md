@@ -2,7 +2,7 @@
 title: Руководство администратора
 description: Руководство по настройке программы Айтида
 published: true
-date: 2022-07-31T22:17:34.759Z
+date: 2022-07-31T22:50:15.394Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-20T21:07:46.383Z
