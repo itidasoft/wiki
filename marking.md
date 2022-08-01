@@ -2,7 +2,7 @@
 title: Модуль Айтида: Маркировка
 description: 
 published: true
-date: 2022-07-31T19:51:46.670Z
+date: 2022-07-31T19:51:49.029Z
 tags: маркировка
 editor: markdown
 dateCreated: 2022-04-03T12:42:21.673Z

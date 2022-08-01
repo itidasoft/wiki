@@ -2,7 +2,7 @@
 title: Установка программного обеспечения Айтида и установка SQL сервер
 description: Установка Айтида и SQL
 published: true
-date: 2022-07-31T22:26:00.375Z
+date: 2022-07-31T22:26:03.386Z
 tags: установка, sql, внедрение
 editor: markdown
 dateCreated: 2022-07-31T21:20:35.167Z
