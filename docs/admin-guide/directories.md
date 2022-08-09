@@ -2,7 +2,7 @@
 title: Справочники
 description: Руководство администратора
 published: true
-date: 2022-08-09T18:32:08.396Z
+date: 2022-08-09T19:05:10.743Z
 tags: справочники
 editor: markdown
 dateCreated: 2022-08-04T21:54:01.688Z
