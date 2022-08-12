@@ -2,7 +2,7 @@
 title: Работа с ГИС Меркурий в Айтида
 description: Меркурий - использование
 published: true
-date: 2022-08-01T10:21:56.651Z
+date: 2022-08-01T10:21:59.675Z
 tags: меркурий
 editor: markdown
 dateCreated: 2022-07-31T11:59:05.775Z

@@ -2,7 +2,7 @@
 title: Справочник понятий
 description: Руководство администратора
 published: true
-date: 2022-08-09T19:09:57.143Z
+date: 2022-08-09T19:09:59.609Z
 tags: понятия
 editor: markdown
 dateCreated: 2022-08-09T19:09:57.143Z

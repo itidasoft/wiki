@@ -2,20 +2,20 @@
 title: Руководство пользователя
 description: Руководство пользователя Айтида
 published: true
-date: 2022-07-25T19:56:52.501Z
+date: 2022-08-04T21:51:50.289Z
 tags: пользователь, руководство, инструкция
 editor: markdown
 dateCreated: 2022-03-13T22:58:58.269Z
 ---
 
 
--	[Введение](/docs/user-guide/intro)
--	[Запуск ПП Айтида](/docs/user-guide/launch)
--	[Основные сведения о работе](/docs/user-guide/basic)
--	[Экспорт и импорт](/docs/user-guide/impexp)
--	[Справочники](/docs/user-guide/references)
--	[Документы](/docs/user-guide/documents)
--	[Отчёты](/docs/user-guide/reports)
--	[Айтида Retail: Эксперт](/docs/user-guide/expert)
+-	[Введение *Назначение и базовые функциональные возможности*](/docs/user-guide/intro)
+-	[Запуск ПП Айтида *Основные элементы интерфейса, базовые настройки*](/docs/user-guide/launch)
+-	[Основные сведения о работе *Генерация и печать штрихкодов, печать ценников, работа с торговым оборудованием, настройка сканера штрихкодов*](/docs/user-guide/basic)
+-	[Экспорт и импорт *Обмен с филиалами, обмен с клиент-банком, выгрузка документов в 1С*](/docs/user-guide/impexp)
+-	[Справочники *Описание основных справочников системы*](/docs/user-guide/directories)
+-	[Документы *Сведения об основных документах системы*](/docs/user-guide/documents)
+-	[Отчёты *Сведения об основных отчетах*](/docs/user-guide/reports)
+-	[Айтида Retail: Эксперт *Описание дисконтного модуля, отчеты по скидкам, аналитика по чекам*](/docs/user-guide/expert)
 {.links-list}
 

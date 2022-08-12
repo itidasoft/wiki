@@ -2,7 +2,7 @@
 title: Справочник алгоритмов работы
 description: Руководство администратора
 published: true
-date: 2022-08-09T19:12:48.480Z
+date: 2022-08-09T19:12:50.925Z
 tags: алгоритмы
 editor: markdown
 dateCreated: 2022-08-09T19:12:48.480Z

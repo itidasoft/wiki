@@ -2,7 +2,7 @@
 title: Быстрый старт
 description: Руководство по быстрому запуску
 published: true
-date: 2022-04-03T22:41:46.311Z
+date: 2022-08-08T18:30:40.274Z
 tags: установка, быстрый запуск, настройка
 editor: markdown
 dateCreated: 2022-03-13T22:20:10.958Z
@@ -32,7 +32,7 @@ dateCreated: 2022-03-13T22:20:10.958Z
 -	[Подключение сканера штрихкодов](/docs/quick-start/barcode-scaner)
 {.links-list}
 
-# Справочники
+# Справочники {#directories}
 
 -	[Справочник денежных карманов *Кассы и расчетные счета организации*](/docs/quick-start/money-pocket)
 -	[Справочник складов *Торговые точки и места хранения товаров*](/docs/quick-start/warehouses)

@@ -2,7 +2,7 @@
 title: Настройка скидок
 description: Руководство администратора
 published: true
-date: 2022-08-11T22:23:44.748Z
+date: 2022-08-11T22:23:47.507Z
 tags: скидки, акции, карты
 editor: markdown
 dateCreated: 2022-08-11T22:23:44.748Z

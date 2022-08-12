@@ -2,7 +2,7 @@
 title: Справочник вариантов меню
 description: Руководство администратора
 published: true
-date: 2022-08-09T18:31:47.483Z
+date: 2022-08-09T18:31:50.035Z
 tags: меню, пункты меню, меню программы
 editor: markdown
 dateCreated: 2022-08-09T18:31:47.483Z

@@ -2,7 +2,7 @@
 title: Справочник панелей инструментов
 description: Руководство администратора
 published: true
-date: 2022-08-09T18:40:04.854Z
+date: 2022-08-09T18:40:07.513Z
 tags: панель инструментов
 editor: markdown
 dateCreated: 2022-08-09T18:36:35.249Z
