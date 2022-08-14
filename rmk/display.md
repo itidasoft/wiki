@@ -2,7 +2,7 @@
 title: Программа дисплея покупателя
 description: Айтида РМК
 published: true
-date: 2022-08-14T21:37:56.109Z
+date: 2022-08-14T21:37:58.848Z
 tags: дисплей покупателя
 editor: markdown
 dateCreated: 2022-08-14T21:37:56.109Z

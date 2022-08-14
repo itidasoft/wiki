@@ -2,7 +2,7 @@
 title: Монитор РМК
 description: Айтида РМК
 published: true
-date: 2022-08-14T21:40:41.508Z
+date: 2022-08-14T21:40:43.902Z
 tags: монитор продаж, работа касс
 editor: markdown
 dateCreated: 2022-08-14T21:40:41.508Z

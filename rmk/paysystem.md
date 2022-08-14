@@ -2,7 +2,7 @@
 title: Платежные системы
 description: Айтида РМК
 published: true
-date: 2022-08-14T21:33:01.518Z
+date: 2022-08-14T21:33:04.109Z
 tags: банк, сбп, эквайринг, платежные карты
 editor: markdown
 dateCreated: 2022-08-14T21:32:34.305Z

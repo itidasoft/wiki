@@ -2,7 +2,7 @@
 title: Подготовка к работе
 description: Айтида РМК
 published: true
-date: 2022-08-14T20:49:11.291Z
+date: 2022-08-14T20:49:13.824Z
 tags: лицензирование, рмк, запуск рмк, настройка рмк
 editor: markdown
 dateCreated: 2022-08-14T20:48:49.016Z

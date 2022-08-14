@@ -2,7 +2,7 @@
 title: Схемы рабочих мест
 description: Айтида РМК
 published: true
-date: 2022-08-14T21:09:43.074Z
+date: 2022-08-14T21:49:40.889Z
 tags: рабочие места, схема рмк
 editor: markdown
 dateCreated: 2022-08-14T21:09:43.074Z

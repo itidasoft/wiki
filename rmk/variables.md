@@ -2,7 +2,7 @@
 title: Приложения
 description: Айтида РМК
 published: true
-date: 2022-08-14T21:51:01.141Z
+date: 2022-08-14T21:51:05.021Z
 tags: переменные, функции
 editor: markdown
 dateCreated: 2022-08-14T21:49:35.907Z
