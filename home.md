@@ -2,7 +2,7 @@
 title: Айтида
 description: Документация по Айтида 4
 published: true
-date: 2022-08-02T11:32:57.736Z
+date: 2022-08-14T16:50:37.235Z
 tags: айтида, документация
 editor: markdown
 dateCreated: 2022-03-13T20:08:41.922Z
@@ -32,6 +32,7 @@ dateCreated: 2022-03-13T20:08:41.922Z
 - [![markirovka_32x32.png](/images/mainpage/markirovka_32x32.png) Маркировка *Инструкция по подключению и настройке модуля Маркировка.*](/marking)
 - [![меркурий-россельхознадзор_logo_32x32.png](/images/mainpage/меркурий-россельхознадзор_logo_32x32.png) Меркурий *Инструкция по подключению и настройке модуля Меркурий.*](/mercury)
 - [![ofd_32x32.png](/images/mainpage/ofd_32x32.png) 54-ФЗ *Методика по работе с Айтидой в соответствии с 54-ФЗ.*](/fz54)
+- [![rmk.png](/images/mainpage/rmk.png) РМК *Модуль регистрации продаж версии 2*](/rmk)
 {.links-list}
 
 # Конфигурирование
