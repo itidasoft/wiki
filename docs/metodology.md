@@ -2,7 +2,7 @@
 title: Методика организации бизнес-процессов на торговых предприятиях
 description: Методические рекомендации
 published: true
-date: 2022-08-17T07:12:29.576Z
+date: 2022-08-17T07:14:14.041Z
 tags: методология, методики, бизнес-процесс
 editor: markdown
 dateCreated: 2022-08-15T17:25:21.711Z
@@ -60,5 +60,8 @@ dateCreated: 2022-08-15T17:25:21.711Z
 {.links-list}
 # Учет серийных номеров
 - [Учет *серийных номеров*](/docs/metodology/serial)
+{.links-list}
+# Многовалютный учет
+- [Учет *в нескольких валютах*](/docs/metodology/multicurrency)
 {.links-list}
 
