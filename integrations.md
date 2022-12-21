@@ -2,7 +2,7 @@
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
 published: false
-date: 2022-11-05T14:46:10.088Z
+date: 2022-12-21T07:18:07.339Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
@@ -11,7 +11,9 @@ dateCreated: 2022-08-18T09:14:01.130Z
 # Оборудование
 ## Терминалы сбора данных
 
+- [:blue_book: Mobile Smarts *Терминалы сбора данных под управлением ПО Mobile Smarts Магазин 15 или Mobile Smarts ЕГАИС 3*](/integrations/mobilesmarts)
 - [:blue_book: DataMobile *Терминалы сбора данных под управлением ПО DataMobile.*](/integrations/datamobile)
+- [:blue_book: АТОЛ Mark.Scan *Терминалы сбора данных под управлением ПО АТОЛ Mark.Scan.*](/integrations/markscan)
 {.links-list}
 
 ## Весы с печатью этикеток
@@ -20,8 +22,10 @@ dateCreated: 2022-08-18T09:14:01.130Z
 
 ## Внешние Фронт-системы
 - [:blue_book: Решения Бифит *Все инструменты для управления розничными и онлайн-продажами в одном облачном сервисе.*](/integrations/bifit)
+- [:blue_book: Frontol 6 и Frontol xPOS3 *Загрузка чеков из ПО Frontol, онлайн остатки товаров, универсальный отчет по чекам, отчет для ГИИС ДМДК*](/integrations/frontol)
 {.links-list}
 
 # Системы лояльность
 - [:blue_book: LoCards *Электронные карты лояльности*](/integrations/locards)
+- [:blue_book: UDS *Модульная экосистема для работы с клиентами, система лояльности (бонусы, скидки)*](/integrations/uds)
 {.links-list}
