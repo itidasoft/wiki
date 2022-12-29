@@ -2,8 +2,8 @@
 title: Айтида и Mobile Smarts Магазин 15
 description: Описание интеграции с Mobile Smarts Магазин 15
 published: true
-date: 2022-12-21T08:45:19.819Z
-tags: тсд, mobile smarts, cleverence, магазин15
+date: 2022-12-28T13:41:07.453Z
+tags: тсд, cleverence, магазин15, mobile smarts
 editor: markdown
 dateCreated: 2022-12-21T08:10:04.376Z
 ---
@@ -79,3 +79,8 @@ dateCreated: 2022-12-21T08:10:04.376Z
 
 
 В случае, если на ТСД в процессе сканирования товар не был определен, но добавлен в документ как неизвестный товар, то в текущей версии профиля обмена такой товар будет пропущен, либо записан в файл «Не найденные товары», если активирована соответствующая настройка.
+
+# Настройка интеграции
+
+- [:green_book: Настройка интеграции с Mobile Smarts *Описание процесса настройки интеграции с ПО Mobile Smarts*](/integrations/mobilesmarts/settings)
+{.links-list}

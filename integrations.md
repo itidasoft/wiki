@@ -1,8 +1,8 @@
 ---
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
-published: false
-date: 2022-12-21T07:18:07.339Z
+published: true
+date: 2022-12-21T10:40:58.296Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
@@ -25,7 +25,7 @@ dateCreated: 2022-08-18T09:14:01.130Z
 - [:blue_book: Frontol 6 и Frontol xPOS3 *Загрузка чеков из ПО Frontol, онлайн остатки товаров, универсальный отчет по чекам, отчет для ГИИС ДМДК*](/integrations/frontol)
 {.links-list}
 
-# Системы лояльность
+# Системы лояльности
 - [:blue_book: LoCards *Электронные карты лояльности*](/integrations/locards)
 - [:blue_book: UDS *Модульная экосистема для работы с клиентами, система лояльности (бонусы, скидки)*](/integrations/uds)
 {.links-list}

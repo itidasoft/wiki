@@ -2,7 +2,7 @@
 title: Изменения функционала - ранние версии
 description: Изменения в версиях
 published: true
-date: 2022-09-07T13:29:28.882Z
+date: 2022-09-07T13:29:32.538Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T13:28:34.773Z

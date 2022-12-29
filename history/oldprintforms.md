@@ -2,7 +2,7 @@
 title: Изменения печатных форм - ранние версии
 description: Изменения в версиях
 published: true
-date: 2022-09-07T13:38:41.107Z
+date: 2022-09-07T13:38:43.489Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T13:35:13.442Z

@@ -2,7 +2,7 @@
 title: Айтида и DataMobile
 description: Интеграция Айтида с DataMobile
 published: true
-date: 2022-12-21T07:07:24.422Z
+date: 2022-12-21T07:07:26.988Z
 tags: тсд, datamobile
 editor: markdown
 dateCreated: 2022-11-05T20:48:09.503Z
