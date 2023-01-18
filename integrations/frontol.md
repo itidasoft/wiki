@@ -2,7 +2,7 @@
 title: Загрузка чеков из ПО Frontol
 description: Настройка загрузки чеков из ПО Frontol
 published: true
-date: 2023-01-18T19:28:59.493Z
+date: 2023-01-18T19:29:54.201Z
 tags: frontol, чеки, рмк, дмдк, отчет по чекам, онлайн остатки
 editor: markdown
 dateCreated: 2022-12-21T10:06:46.112Z
@@ -80,17 +80,14 @@ dateCreated: 2022-12-21T10:06:46.112Z
 Чтобы передать сведения о розничной продаже:
 
 1.  Сформируйте отчет «Продажа маркированной продукции в чеках» <br/>
-	![](/images/integrations/frontolcheque/853dc0c0e52f8e9a6893a21c3ec4a6d5.png)
+![](/images/integrations/frontolcheque/853dc0c0e52f8e9a6893a21c3ec4a6d5.png)
 
 2.  В личном кабинете ГИИС ДМДК откройте раздел «Объекты учета/Драгоценные металлы», «Объекты учета/Драгоценные камни» или «Объекты учета/Изделия из ДМДК» — зависит от типа изделия.
 3.  Нажмите ![](/images/integrations/frontolcheque/56a9b6b5fd7c459a84fd8a140e01a384.png) и выберите «Реализация». <br/>
-
-    ![](/images/integrations/frontolcheque/231bd1cc650da25011ad7c8486cfab60.png)
+![](/images/integrations/frontolcheque/231bd1cc650da25011ad7c8486cfab60.png)
 
 4.  Отметьте партии для реализации. <br/>
-
-    ![Изображение выглядит как текст Автоматически созданное описание](/images/integrations/frontolcheque/1d7af1bd6930bc7ed69bcdb23842051d.png)
+![Изображение выглядит как текст Автоматически созданное описание](/images/integrations/frontolcheque/1d7af1bd6930bc7ed69bcdb23842051d.png)
 
 5.  Перейдите на вкладку «Данные» и укажите: номер и дату кассового чека, номер фискального накопителя. Нажмите «Сохранить». <br/>
-
-    ![](/images/integrations/frontolcheque/b81f5f864c68ecef4bcc99796d1c476f.png)
+![](/images/integrations/frontolcheque/b81f5f864c68ecef4bcc99796d1c476f.png)
