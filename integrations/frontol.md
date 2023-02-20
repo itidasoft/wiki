@@ -2,8 +2,8 @@
 title: Загрузка чеков из ПО Frontol
 description: Настройка загрузки чеков из ПО Frontol
 published: true
-date: 2023-01-18T19:30:53.294Z
-tags: frontol, чеки, рмк, дмдк, отчет по чекам, онлайн остатки
+date: 2023-01-18T19:30:56.075Z
+tags: frontol, рмк, дмдк, отчет по чекам, чеки, онлайн остатки
 editor: markdown
 dateCreated: 2022-12-21T10:06:46.112Z
 ---

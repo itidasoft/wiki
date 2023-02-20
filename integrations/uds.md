@@ -2,7 +2,7 @@
 title: Айтида и UDS
 description: Айтида РМК – интеграция с системой лояльности UDS
 published: true
-date: 2023-01-26T12:54:25.714Z
+date: 2023-01-26T12:54:29.338Z
 tags: скидки, бонусы, лояльность, uds
 editor: markdown
 dateCreated: 2022-12-21T10:36:25.124Z
