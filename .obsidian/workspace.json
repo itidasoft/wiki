@@ -11,12 +11,8 @@
             "id": "7d6caa275f171d5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "marking/ПеремаркировкаОбуви.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marking/ПеремаркировкаОбуви.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marking/ПеремаркировкаОбуви.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "marking/ПеремаркировкаОбуви.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +140,9 @@
   },
   "active": "7d6caa275f171d5e",
   "lastOpenFiles": [
+    "marking/ПеремаркировкаОбуви.md",
     "history.md",
     "home.md",
-    "marking/ПеремаркировкаОбуви.md",
     "licensing.md"
   ]
 }
