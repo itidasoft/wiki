@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "151d4632717304c0",
+        "id": "0ef0ee462bf8484e",
         "type": "tabs",
         "children": [
           {
-            "id": "7d6caa275f171d5e",
+            "id": "f2c99e7a1bf61d0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,10 +138,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7d6caa275f171d5e",
+  "active": "f2c99e7a1bf61d0e",
   "lastOpenFiles": [
-    "marking/ПеремаркировкаОбуви.md",
+    "marking/sremark.md",
     "history.md",
+    "marking/ПеремаркировкаОбуви.md",
     "home.md",
     "licensing.md"
   ]
