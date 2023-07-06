@@ -2,7 +2,7 @@
 title: Работа с модулем ЕГАИС
 description: Руководство по модулю ЕГАИС
 published: true
-date: 2023-06-27T20:03:15.616Z
+date: 2023-07-06T17:01:48.866Z
 tags: егаис, вскрытие тары, постановка на баланс, алкокод
 editor: markdown
 dateCreated: 2022-07-25T22:21:29.512Z
@@ -1476,15 +1476,6 @@ DELETE FROM barcodes WHERE LEN( barcode ) = 150
 ```js
 ЗАПРОС( " IF (SELECT egaisstatus_v3 FROM spr008 WHERE identity_column = " + @ИДДокумента + " ) = 0 AND EXISTS( SELECT * FROM spec008 spec INNER JOIN sprnn sprnn ON spec.nn = sprnn.nn INNER JOIN barcodes bc ON bc.code='008' AND bc.spec_ic = spec.identity_column AND dbo.fn_isalcomark( bc.barcode ) = 1 WHERE spec.ic= " + @ИДДокумента + " AND dbo.fn_alcotype( sprnn.nnvid ) = 1  ) 
 	UPDATE spr008 SET egaisstatus_v3 = 1 WHERE identity_column= " + @ИДДокумента );
-```
-
-В случае, если не предполагается отправка актов списания пивной продукции по ДКС, необходимо заполнять значения алкокодов для пивной продукции, т.к. из кассовой программы для нее не приходит эта информация. Алкокоды потребуются для формирования алкогольной декларации (форма 12). Для автоматического расчета и заполнения алкокодов в момент создания ДКС, в скрипт проверки перед записью необходимо добавить текст, который будет выполнять эту работу. Текст предполагает, что склад, указанный в ДКС соответствует складу, указанному в настройках УТМ.
-
-```js
-СКЛАД= ЗАПРОС( "SELECT SUBSTRING( param, 12, 10 ) FROM param_ex WHERE CONVERT( varchar( max ), value ) =(SELECT sklad FROM spr008 WHERE identity_column= " + @ИДДокумента + " ) AND LEFT( param, 11 ) = 'EGAIS_SKLAD'" );
-ЕГАИС.Инициализироватьобмен( );
-IF ( ЗАПРОС("SELECT COUNT( * ) FROM spec008 spec INNER JOIN sprnn sprnn ON spec.nn = sprnn.nn WHERE ic=" + @ИДДокумента + "  AND dbo.fn_alcotype( sprnn.nnvid ) = 2 AND spec.alcocode = ''" )  > 0 )  
-	ЕГАИС.РаспределитьАлкокодыДКС( @ИДДокумента  ) ;
 ```
 
 ## Отправка ДКС в ЕГАИС
