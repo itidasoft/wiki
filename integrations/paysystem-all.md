@@ -1,8 +1,8 @@
 ---
 title: Интеграция с платежными системами
 description: Руководство по подключению платежных систем
-published: false
-date: 2023-09-13T09:30:25.865Z
+published: true
+date: 2023-09-13T09:30:46.933Z
 tags: альфа-банк, тинькофф
 editor: markdown
 dateCreated: 2023-09-13T08:31:10.094Z
