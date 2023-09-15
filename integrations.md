@@ -2,7 +2,7 @@
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
 published: true
-date: 2023-09-13T09:34:23.951Z
+date: 2023-09-15T08:23:49.104Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
@@ -22,13 +22,17 @@ dateCreated: 2022-08-18T09:14:01.130Z
 
 ## Внешние Фронт-системы
 - [:blue_book: Решения Бифит *Все инструменты для управления розничными и онлайн-продажами в одном облачном сервисе.*](/integrations/bifit)
-- [:blue_book: Frontol 6 и Frontol xPOS3 *Загрузка чеков из ПО Frontol, онлайн остатки товаров, универсальный отчет по чекам, отчет для ГИИС ДМДК*](/integrations/frontol)
+- [:blue_book: Frontol 6 и Frontol xPOS3 *Загрузка чеков из ПО Frontol, онлайн остатки товаров, универсальный отчет по чекам, отчет для ГИИС ДМДК*](/integrations/atolsigma)
+- [:blue_book: Атол Sigma *Онлайн касса для бизнеса:комплексное решение от бренда Атол*](/integrations/bifit)
 {.links-list}
 
 ## Платежные системы
 - [:blue_book: Сбербанк *Прямая интеграция с платежной системой от Сбербанка*](/integrations/paysystem-sber)
 - [:blue_book: Прочие платежные системы *Интеграция со всеми остальными платежными системами*](/integrations/paysystem-all)
 {.links-list}
+
+## Мобильные системы
+- [:blue_book: DataMobile Мобильная торговля *Автоматизация службы доставки и торговых представилетей*](/integrations/dmtrade)
 
 # Системы лояльности
 - [:blue_book: LoCards *Электронные карты лояльности*](/integrations/locards)
