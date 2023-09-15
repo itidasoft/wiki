@@ -2,7 +2,7 @@
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
 published: true
-date: 2023-09-15T08:24:43.621Z
+date: 2023-09-15T08:25:04.395Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
@@ -33,6 +33,7 @@ dateCreated: 2022-08-18T09:14:01.130Z
 
 ## Мобильные системы
 - [:blue_book: DataMobile Мобильная торговля *Автоматизация службы доставки и торговых представилетей*](/integrations/dmtrade)
+{.links-list}
 
 # Системы лояльности
 - [:blue_book: LoCards *Электронные карты лояльности*](/integrations/locards)
