@@ -2,7 +2,7 @@
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
 published: true
-date: 2023-09-15T10:22:49.272Z
+date: 2023-09-15T10:25:00.665Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
@@ -22,7 +22,7 @@ dateCreated: 2022-08-18T09:14:01.130Z
 {.links-list}
 
 ## Электронные весы
-- [:blue_book: Mertech серии M-ER 221, 222, 224, 326, 328 *Весы электронные Mertech*](/integrations/mertech-printcsales)
+- [:blue_book: Mertech серии M-ER 221, 222, 224, 326, 328 *Весы электронные Mertech*](/integrations/mertech-csales)
 {.links-list}
 
 ## Внешние Фронт-системы
