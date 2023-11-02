@@ -2,7 +2,7 @@
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
 published: true
-date: 2023-09-15T10:26:27.390Z
+date: 2023-11-02T17:53:29.919Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
@@ -43,4 +43,8 @@ dateCreated: 2022-08-18T09:14:01.130Z
 # Системы лояльности
 - [:blue_book: LoCards *Электронные карты лояльности*](/integrations/locards)
 - [:blue_book: UDS *Модульная экосистема для работы с клиентами, система лояльности (бонусы, скидки)*](/integrations/uds)
+{.links-list}
+
+# Системы оповещения
+- [:blue_book: Telegram Bot API *Интеграция с Телеграм в части обработки входящих запросов через Телеграм бота*](/integrations/telegram)
 {.links-list}
