@@ -2,7 +2,7 @@
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
 published: true
-date: 2023-11-02T17:53:29.919Z
+date: 2023-11-02T17:55:10.544Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
