@@ -2,13 +2,13 @@
 title: Атол Sigma
 description: Настройка интеграции с Атол Sigma
 published: true
-date: 2023-11-20T08:54:03.012Z
+date: 2023-11-20T08:54:41.049Z
 tags: sigma, atol
 editor: markdown
 dateCreated: 2023-09-15T08:26:53.699Z
 ---
 
-# Настройка двухстороннего обмена в личном кабинете Sigma.
+# Настройка двустороннего обмена в личном кабинете Sigma.
 Прежде чем приступить к настройке интеграции в Айтиде, необходимо перейти в личный кабинет Атол Sigma по адресу: https://cloud.sigma.ru.
 
 ![2023-11-20_09-27-44.png](/images/integrations/atolsigma/2023-11-20_09-27-44.png){.align-center}
