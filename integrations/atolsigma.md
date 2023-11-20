@@ -2,7 +2,7 @@
 title: Атол Sigma
 description: Настройка интеграции с Атол Sigma
 published: true
-date: 2023-11-20T11:52:11.719Z
+date: 2023-11-20T11:53:00.966Z
 tags: sigma, atol
 editor: markdown
 dateCreated: 2023-09-15T08:26:53.699Z
