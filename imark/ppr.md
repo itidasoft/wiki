@@ -2,7 +2,7 @@
 title: ППР № 1944
 description: Постановление правительства от 21 ноября 2023 г. № 1944 
 published: false
-date: 2023-12-04T19:12:30.144Z
+date: 2023-12-04T19:12:40.821Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T17:53:17.663Z
