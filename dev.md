@@ -2,7 +2,7 @@
 title: Раздел для разработчиков
 description: 
 published: true
-date: 2023-12-07T12:52:16.349Z
+date: 2023-12-07T12:59:30.258Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T12:41:14.891Z
@@ -14,4 +14,9 @@ dateCreated: 2023-12-07T12:41:14.891Z
 - [:blue_book: Обёртка для 1С компонент](/dev/wrapper)
 - [:blue_book: Управление стилями окна РМК](/dev/rmkwindowstyle)
 - [:blue_book: Функции записи и восстановления значений в реестре](/dev/savesettings)
+{.links-list}
+
+# Разработка по требованиям ФЗ
+- [:beer: Работа с разливной пивной продукцией в РМК](/dev/beer-keg)
+- [✅ Запретительный режим: проверка КМ на кассах *Айтида iMark*](/dev/beer-keg)
 {.links-list}
