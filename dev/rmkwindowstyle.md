@@ -1,8 +1,8 @@
 ---
-title: Управление главным окноп приложения РМК
+title: Управление главным окном приложения РМК
 description: 
 published: true
-date: 2023-12-07T13:43:02.549Z
+date: 2023-12-07T13:43:19.644Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T13:43:02.549Z
