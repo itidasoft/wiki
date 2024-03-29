@@ -2,7 +2,7 @@
 title: iMark
 description: Сервис для работы с маркированной и алкогольной продукцией
 published: true
-date: 2024-03-29T12:00:48.453Z
+date: 2024-03-29T12:06:36.375Z
 tags: маркировка, imark, проверка маркировки, сроки годности, статусы км
 editor: markdown
 dateCreated: 2023-12-04T17:38:33.872Z
@@ -17,7 +17,7 @@ dateCreated: 2023-12-04T17:38:33.872Z
 https://www.youtube.com/watch?v=IgGdk5wS7dw
 
 <video width="800" height="600" controls>
-  <source src="https://www.youtube.com/watch?v=IgGdk5wS7dw" type="video/mp4">
+  <source src="https://youtu.be/IgGdk5wS7dw" type="video/mp4">
 </video>
 
 # Работа со сторонним программным обеспечением
