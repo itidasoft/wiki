@@ -2,7 +2,7 @@
 title: Установка программного обеспечения Айтида и установка SQL сервер
 description: Установка Айтида и SQL
 published: true
-date: 2024-04-06T11:58:33.781Z
+date: 2024-04-06T12:07:11.445Z
 tags: установка, sql, внедрение
 editor: markdown
 dateCreated: 2022-07-31T21:20:35.167Z
@@ -146,6 +146,10 @@ Microsoft SQL Server (SQL Server Express) – это мощная и надеж�
 | Microsoft SQL Server 2012x64 (64-бита)                                             | [SQLEXPRWT_x64_RUS.exe](http://download.microsoft.com/download/C/9/C/C9CC7335-F901-4463-AD0E-07B12ED9E976/SQLEXPRWT_x64_RUS.exe)                         |
 | Microsoft SQL Server 2014x86 (32-бита)                                             | [SQLEXPRWT_x86_RUS.exe](http://download.microsoft.com/download/4/E/3/4E38FD5A-8859-446F-8C58-9FC70FE82BB1/ExpressAndTools%2032BIT/SQLEXPRWT_x86_RUS.exe) |
 | Microsoft SQL Server 2014x64 (64-бита)                                             | [SQLEXPRWT_x64_RUS.exe](http://download.microsoft.com/download/4/E/3/4E38FD5A-8859-446F-8C58-9FC70FE82BB1/ExpressAndTools%2064BIT/SQLEXPRWT_x64_RUS.exe) |
+| Microsoft SQL Server 2016x64 (64-бита)                                             | [SQLServer2016-SSEI-Expr.exe](https://download.microsoft.com/download/3/7/6/3767D272-76A1-4F31-8849-260BD37924E4/SQLServer2016-SSEI-Expr.exe) |
+| Microsoft SQL Server 2017x64 (64-бита)                                             | [SQLServer2017-SSEI-Expr.exe](https://download.microsoft.com/download/5/E/9/5E9B18CC-8FD5-467E-B5BF-BADE39C51F73/SQLServer2017-SSEI-Expr.exe) |
+| Microsoft SQL Server 2019x64 (64-бита)                                             | [SQL2019-SSEI-Expr.exe](https://download.microsoft.com/download/7/f/8/7f8a9c43-8c8a-4f7c-9f92-83c18d96b681/SQL2019-SSEI-Expr.exe) |
+| Microsoft SQL Server 20229x64 (64-бита)                                             | [SQL2022-SSEI-Expr.exe](https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe) |
 
 Перед установкой ПП Айтида загруженный файл MS SQL Server Express Edition, версии соответствующей операционной системе, необходимо поместить в папку Itida дистрибутива ПП Айтида.
 
