@@ -2,7 +2,7 @@
 title: Айтида
 description: Документация по Айтида 4
 published: true
-date: 2024-03-28T18:56:02.604Z
+date: 2024-05-23T11:35:52.437Z
 tags: айтида, документация
 editor: markdown
 dateCreated: 2022-03-13T20:08:41.922Z
@@ -54,4 +54,5 @@ dateCreated: 2022-03-13T20:08:41.922Z
 - [:bulb: Предложить новую функцию *Поделитесь вашими идеями*](https://forum.itida.ru/viewforum.php?f=8)
 - [:speech_balloon: Форум *Найдите ответ на нашем форуме или получите помощь от партнёров компании*](https://forum.itida.ru/)
 - [:ballot_box_with_check: Тех поддержка для партнёров нашей компании *Доступ только для зарегистрированных партнёров!*](https://itida.intraservice.ru)
+- [:globe_with_meridians: Сайт нашей компании *itida.ru*](https://itida.ru)
 {.links-list}
