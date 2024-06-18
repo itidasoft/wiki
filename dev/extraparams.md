@@ -2,7 +2,7 @@
 title: Пример запроса параметров
 description: 
 published: true
-date: 2024-06-18T09:37:51.047Z
+date: 2024-06-18T09:39:14.240Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T09:37:51.047Z
@@ -47,3 +47,6 @@ InputMask="+7(000)000-00-00" Required= "True"
 
 Общий пример
 [pbparams.txt](/images/dev/extparams/pbparams.txt)
+[eapi_full.sql](/images/dev/extparams/eapi_full.sql)
+
+может вызвать интерес функция проверки телефона и функционал запроса кода подтверждения
