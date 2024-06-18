@@ -2,7 +2,7 @@
 title: Пример запроса параметров
 description: 
 published: true
-date: 2024-06-18T09:39:14.240Z
+date: 2024-06-18T09:52:19.195Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T09:37:51.047Z
@@ -50,3 +50,10 @@ InputMask="+7(000)000-00-00" Required= "True"
 [eapi_full.sql](/images/dev/extparams/eapi_full.sql)
 
 может вызвать интерес функция проверки телефона и функционал запроса кода подтверждения
+
+
+**может быть параметр **
+```
+<Settings virtualkbd= "true">
+```
+тогда будет в окне запроса экранная клавиатура
