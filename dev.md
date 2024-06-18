@@ -2,7 +2,7 @@
 title: Раздел для разработчиков
 description: 
 published: true
-date: 2023-12-08T09:22:52.986Z
+date: 2024-06-18T09:34:35.138Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T12:41:14.891Z
@@ -14,6 +14,7 @@ dateCreated: 2023-12-07T12:41:14.891Z
 - [:blue_book: Обёртка для 1С компонент](/dev/wrapper)
 - [:blue_book: Управление стилями окна РМК](/dev/rmkwindowstyle)
 - [:blue_book: Функции записи и восстановления значений в реестре](/dev/savesettings)
+- [:blue_book: Расширенные возможности запроса параметро](/dev/extraparams)
 {.links-list}
 
 # Разработка по требованиям ФЗ
