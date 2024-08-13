@@ -2,7 +2,7 @@
 title: Раздел для разработчиков
 description: 
 published: true
-date: 2024-06-18T09:38:08.649Z
+date: 2024-08-13T06:52:36.940Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T12:41:14.891Z
@@ -15,6 +15,7 @@ dateCreated: 2023-12-07T12:41:14.891Z
 - [:blue_book: Управление стилями окна РМК](/dev/rmkwindowstyle)
 - [:blue_book: Функции записи и восстановления значений в реестре](/dev/savesettings)
 - [:blue_book: Расширенные возможности запроса параметров](/dev/extraparams)
+- [:blue_book: Переменные в профилях оборудования](/dev/profilevar)
 {.links-list}
 
 # Разработка по требованиям ФЗ
