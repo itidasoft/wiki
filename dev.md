@@ -2,7 +2,7 @@
 title: Раздел для разработчиков
 description: 
 published: true
-date: 2024-08-13T06:56:38.418Z
+date: 2024-08-20T18:24:48.128Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T12:41:14.891Z
@@ -16,6 +16,7 @@ dateCreated: 2023-12-07T12:41:14.891Z
 - [:blue_book: Функции записи и восстановления значений в реестре](/dev/savesettings)
 - [:blue_book: Расширенные возможности запроса параметров](/dev/extraparams)
 - [:blue_book: Переменные в профилях оборудования](/dev/profilevar)
+- [:blue_book: Резервное копирование базы Айтида](/dev/backup)
 {.links-list}
 
 # Разработка по требованиям ФЗ
