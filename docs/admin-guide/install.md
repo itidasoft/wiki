@@ -2,7 +2,7 @@
 title: Установка программного обеспечения Айтида и установка SQL сервер
 description: Установка Айтида и SQL
 published: true
-date: 2024-08-29T08:22:46.878Z
+date: 2024-08-29T08:25:55.371Z
 tags: установка, sql, внедрение
 editor: markdown
 dateCreated: 2022-07-31T21:20:35.167Z
@@ -129,7 +129,7 @@ Microsoft SQL Server (SQL Server Express) – это мощная и надеж�
 
 | Версия операционной системы на компьютере сервере                          | Предпочтительная версия MS SQL Server |
 |----------------------------------------------------------------------------|---------------------------------------|
-| Windows XP SP3, Window Server 2003 SP2, Windows Vista, Windows Server 2008 | Microsoft SQL Server 2005.            |
+| Windows XP SP3, Window Server 2003 SP2, Windows Vista, Windows Server 2008 **(Не совместимо с Айтида 4 )** | Microsoft SQL Server 2005. **(Не совместимо с Айтида 4 )**     |
 | Windows Server 2008 R2 без SP1, Windows 7 без SP1                          | Microsoft SQL Server 2008R2.          |
 | Windows Server 2008 R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1          | Microsoft SQL Server 2012.            |
 | Windows 10, 11                                                             | Microsoft SQL Server 2014, 2016, 2017, 2019 |
@@ -139,7 +139,7 @@ Microsoft SQL Server (SQL Server Express) – это мощная и надеж�
 
 | Версия MS SQL Server Express Edition                                               | Интернет адрес для загрузки |
 |------------------------------------------------------------------------------------|-----------------------------|
-| Microsoft SQL Server 2005. Этот вариант не делится на 32-х и 64-х битные варианты. |  [SQLEXPR_ADV_RUS.EXE](http://download.microsoft.com/download/0/b/2/0b266d5b-9724-4e4d-8db2-e3f2e3418403/SQLEXPR_ADV_RUS.EXE)                            |
+| Microsoft SQL Server 2005. Этот вариант не делится на 32-х и 64-х битные варианты. **(Не совместимо с Айтида 4 )** |  [SQLEXPR_ADV_RUS.EXE](http://download.microsoft.com/download/0/b/2/0b266d5b-9724-4e4d-8db2-e3f2e3418403/SQLEXPR_ADV_RUS.EXE)                            |
 | Microsoft SQL Server 2008R2x86 (32-бита)                                           | [SQLEXPRWT_x86_RUS.exe](http://download.microsoft.com/download/3/A/9/3A92B0B1-D996-464E-A0C9-60C9BFA2D071/SQLEXPRWT_x86_RUS.exe)                         |
 | Microsoft SQL Server 2008R2x64(64-бита)                                            | [SQLEXPRWT_x64_RUS.exe](http://download.microsoft.com/download/3/A/9/3A92B0B1-D996-464E-A0C9-60C9BFA2D071/SQLEXPRWT_x64_RUS.exe)                         |
 | Microsoft SQL Server 2012x86 (32-бита)                                             | [SQLEXPRWT_x86_RUS.exe](http://download.microsoft.com/download/C/9/C/C9CC7335-F901-4463-AD0E-07B12ED9E976/SQLEXPRWT_x86_RUS.exe)                         |
@@ -249,7 +249,7 @@ Microsoft SQL Server (SQL Server Express) – это мощная и надеж�
 
 ## Ручная установка SQL Server 2008, 2008R2, 2012 и 2014 Express
 
-> **Внимание! Работа Айтида версии 4 совместно с MS SQL сервером версий 2005 и 2008 не поддерживается. Необходимо использовать MS SQL сервер версий 2008R2, 2012, 2014 и более поздние.**
+> **Внимание! Работа Айтиды версии 4 совместно с MS SQL сервером версий 2005 и 2008 не поддерживается. Необходимо использовать MS SQL сервер версий 2008R2, 2012, 2014 и более поздние.**
 {.is-warning}
 
 
