@@ -2,7 +2,7 @@
 title: Раздел для разработчиков
 description: 
 published: true
-date: 2024-08-29T17:25:50.411Z
+date: 2024-10-01T08:14:14.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T12:41:14.891Z
