@@ -2,7 +2,7 @@
 title: Раздел для разработчиков
 description: 
 published: true
-date: 2024-10-01T08:14:14.969Z
+date: 2024-10-01T08:14:27.866Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T12:41:14.891Z
@@ -18,9 +18,4 @@ dateCreated: 2023-12-07T12:41:14.891Z
 - [:blue_book: Переменные в профилях оборудования](/dev/profilevar)
 - [:blue_book: Резервное копирование базы Айтида](/dev/backup)
 - [:blue_book: РМК: Расширенные свойства строк](/dev/rmkprops)
-{.links-list}
-
-# Разработка по требованиям ФЗ
-- [:beer: Работа с разливной пивной продукцией в Айтиде](/dev/beer-keg)
-- [✅ Запретительный режим: проверка КМ на кассах *Айтида iMark*](/dev/iMark)
 {.links-list}
