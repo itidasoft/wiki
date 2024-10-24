@@ -1,8 +1,8 @@
 ---
 title: Журнал сообщений
 description: 
-published: true
-date: 2024-10-24T17:54:53.040Z
+published: false
+date: 2024-10-24T17:55:17.068Z
 tags: журналирование, сообщения, ошибки
 editor: markdown
 dateCreated: 2024-10-24T17:54:53.040Z
