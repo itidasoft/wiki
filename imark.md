@@ -2,7 +2,7 @@
 title: iMark
 description: Сервис для работы с маркированной и алкогольной продукцией
 published: true
-date: 2024-10-28T14:09:27.599Z
+date: 2024-10-28T14:11:57.676Z
 tags: маркировка, imark, проверка маркировки, сроки годности, статусы км
 editor: markdown
 dateCreated: 2023-12-04T17:38:33.872Z
@@ -44,6 +44,10 @@ dateCreated: 2023-12-04T17:38:33.872Z
 С процессом подготовки Айтида РМК к разрешительному режиму, а так же с настройкой и установкой модуля iMark можно ознакомиться [в обучающем видео](https://rutube.ru/video/cf68a1f49e7a3caaf2ce604939b6f5f1/).
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/rORDJPWxTc8)](https://rutube.ru/video/cf68a1f49e7a3caaf2ce604939b6f5f1/)
+
+<video width="320" height="240" controls>
+  <source src="https://rutube.ru/video/cf68a1f49e7a3caaf2ce604939b6f5f1/" type="video/mp4">
+</video>
 
 # Установка и настройка модуля Айтида iMark.
 
