@@ -2,13 +2,20 @@
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
 published: true
-date: 2024-11-26T14:38:41.828Z
+date: 2024-12-04T12:29:24.600Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
 ---
 
 # Оборудование
+## Фискальные регистратора
+- [:blue_book: ККТ Атол *Онлайн-кассы и фискальные регистраторы от компании Атол*](/integrations/kktatol)
+- [:blue_book: ККТ Штрих *Онлайн-кассы и фискальные регистраторы от компании Штрих-М*](/integrations/kktshtrih)
+- [:blue_book: ККТ Меркурий *Онлайн-кассы и фискальные регистраторы Меркурий от компании Инкотекс*](/integrations/kktincotex)
+- [:blue_book: ККТ Вики Принт *Онлайн-кассы и фискальные регистраторы от компании Дримкас*](/integrations/kktincotex)
+{.links-list}
+
 ## Терминалы сбора данных
 
 - [:blue_book: Mobile Smarts *Терминалы сбора данных под управлением ПО Mobile Smarts Магазин 15 или Mobile Smarts ЕГАИС 3*](/integrations/mobilesmarts)
