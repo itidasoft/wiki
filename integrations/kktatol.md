@@ -2,7 +2,7 @@
 title: Подключение ККТ Атол к Айтиде
 description: ККТ и ФР Атол
 published: true
-date: 2024-12-05T08:13:02.571Z
+date: 2024-12-05T08:24:26.915Z
 tags: атол, ккт, онлайн-касса, фискальный регистратор
 editor: markdown
 dateCreated: 2024-12-04T12:31:05.056Z
