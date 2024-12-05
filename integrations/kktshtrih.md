@@ -2,11 +2,16 @@
 title: Подключение ККТ Штрих к Айтиде
 description: ККТ и ФР Штрих
 published: false
-date: 2024-12-04T12:31:59.028Z
+date: 2024-12-05T08:36:41.844Z
 tags: штрих, ккт, онлайн-касса, фискальный регистратор
 editor: markdown
 dateCreated: 2024-12-04T12:31:59.028Z
 ---
 
-# Header
-Your content here
+# Установка драйвера
+Для работы с ККТ Штрих необходимо установить драйвера ККМ от компании ШТРИХ-М версии 5.Х, которые можно скачать по ссылке: [http://www.shtrih-m.ru/support/download](https://www.shtrih-m.ru/support/download/?section_id=471&product_id=all&type_id=156&searchDownloads=).
+
+Актуальная версия драйверов Штрих на 05.12.2024 - 5.17.0.989.
+У производителя ККТ присутсвует вариант 32х-разрядного драйвера и 64х-разрядного. Нужно выбрать 32x разрядный драйвер.
+
+![2024-11-10_20-37-18.png](/images/integrations/kktshtrih/2024-11-10_20-37-18.png){.align-center}
