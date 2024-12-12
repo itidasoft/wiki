@@ -2,7 +2,7 @@
 title: Терминал оплаты СБП Mertech
 description: Руководство по настройке подключение Mertech QR
 published: true
-date: 2024-12-12T12:41:39.901Z
+date: 2024-12-12T13:12:51.682Z
 tags: сбп, mertech, qr
 editor: markdown
 dateCreated: 2024-12-12T07:39:53.720Z
