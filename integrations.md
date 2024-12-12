@@ -2,7 +2,7 @@
 title: Руководства по интеграции Айтида с различными системами
 description: Интеграции
 published: true
-date: 2024-12-04T12:35:09.721Z
+date: 2024-12-12T13:14:14.132Z
 tags: интеграция
 editor: markdown
 dateCreated: 2022-08-18T09:14:01.130Z
@@ -41,6 +41,7 @@ dateCreated: 2022-08-18T09:14:01.130Z
 ## Платежные системы
 - [:blue_book: Сбербанк *Прямая интеграция с платежной системой от Сбербанка*](/integrations/paysystem-sber)
 - [:blue_book: Прочие платежные системы *Интеграция со всеми остальными платежными системами*](/integrations/paysystem-all)
+- [:blue_book: СБП терминал оплаты Mertech *Подключение QR дисплея от компании Mertech для приёма оплат по СБП*](/integrations/mertech-qr)
 {.links-list}
 
 ## Мобильные системы
