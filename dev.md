@@ -2,7 +2,7 @@
 title: Раздел для разработчиков
 description: 
 published: true
-date: 2024-10-01T08:14:27.866Z
+date: 2025-01-21T09:54:49.679Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T12:41:14.891Z
@@ -18,4 +18,5 @@ dateCreated: 2023-12-07T12:41:14.891Z
 - [:blue_book: Переменные в профилях оборудования](/dev/profilevar)
 - [:blue_book: Резервное копирование базы Айтида](/dev/backup)
 - [:blue_book: РМК: Расширенные свойства строк](/dev/rmkprops)
+- [:blue_book: РМК: Расширенные настройка строк подвала](/dev/rmk-footer)
 {.links-list}
