@@ -1,8 +1,8 @@
 ---
-title: Модуль Айтида: ЭДО
+title: Модуль ЭДО
 description: 
 published: true
-date: 2023-12-11T10:14:50.089Z
+date: 2025-03-17T06:45:45.391Z
 tags: эдо, электронный документооборот
 editor: markdown
 dateCreated: 2022-04-03T12:41:29.605Z
