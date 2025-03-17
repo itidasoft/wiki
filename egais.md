@@ -1,8 +1,8 @@
 ---
-title: Модуль Айтида: ЕГАИС
+title: Модуль ЕГАИС
 description: ЕГАИС
 published: true
-date: 2024-10-15T09:34:30.513Z
+date: 2025-03-17T06:44:12.731Z
 tags: егаис
 editor: markdown
 dateCreated: 2022-04-03T12:40:33.660Z
