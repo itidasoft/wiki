@@ -1,8 +1,8 @@
 ---
-title: Модуль Айтида: Меркурий
+title: Модуль Меркурий
 description: Меркурий
 published: true
-date: 2022-07-31T19:53:51.888Z
+date: 2025-03-17T06:46:52.152Z
 tags: меркурий, ветис, фгис, россельхознадзор
 editor: markdown
 dateCreated: 2022-04-03T12:43:39.794Z
