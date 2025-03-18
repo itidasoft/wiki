@@ -2,7 +2,7 @@
 title: Установка Локального Модуля Честного знака в docker
 description: Описание установки ЛМ ЧЗ в docker
 published: true
-date: 2025-03-18T13:51:05.421Z
+date: 2025-03-18T14:09:01.552Z
 tags: честныйзнак, docker, локальный модуль
 editor: markdown
 dateCreated: 2025-03-06T12:12:49.300Z
@@ -166,3 +166,12 @@ cd D:\regime
 `docker compose pull` - для скачивания указанных в файле образов контейнеров
 
 ![pull_images2.png](/images/imark/lmdocker/pull_images2.png)
+
+
+`docker compose stop` - для остановки запущенных контейнеров
+
+![docker_stop.png](/images/imark/lmdocker/docker_stop.png)
+
+`docker compose ud -d` - для запуска контейнера с использованием новых образов
+
+![docker_up2.png](/images/imark/lmdocker/docker_up2.png)
