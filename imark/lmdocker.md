@@ -2,7 +2,7 @@
 title: Установка Локального Модуля Честного знака в docker
 description: Описание установки ЛМ ЧЗ в docker
 published: true
-date: 2025-03-07T12:01:25.018Z
+date: 2025-03-18T13:36:33.711Z
 tags: честныйзнак, docker, локальный модуль
 editor: markdown
 dateCreated: 2025-03-06T12:12:49.300Z
@@ -112,6 +112,15 @@ docker info
 А изменение портов для связи 5996 и 5997 производится в файле "docker-compose.yaml"
 
 ![compose_file.png](/images/imark/lmdocker/compose_file.png){.align-center}
+
+Так же в файле "docker-compose.yaml" можно указать используемый образ ЛМ ЧЗ в реквизите **image**. Для использования версии 1.3.0 необходимо стандартное значение заменить на 
+```yml
+image: registry.itida.ru/regime:1.3.0-366-ubuntu22_amd64
+```
+для использования самой последней версии образа можно указать вариант **latest**:
+```yml
+image: registry.itida.ru/regime:latest
+```
 
 Перед запуском модулей требуется [скачать архив](/images/imark/lmdocker/regime-docker.zip) с преднастроенными папками и файлом docker-compose для развертывания контейнеров и распаковать содержимое в каталог на жестком диске (например на диск D).
 ![docker_archive.png](/images/imark/lmdocker/docker_archive.png){.align-center}
