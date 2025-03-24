@@ -2,11 +2,15 @@
 title: API для работы с файлами обновлений
 description: Автообновление РМК
 published: false
-date: 2025-03-24T08:46:54.804Z
+date: 2025-03-24T08:49:04.491Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T08:20:42.981Z
 ---
+
+# Адрес сервера
+URL для всех запросов - https://api.itida.ru
+
 
 # Авторизация пользователя
 ## POST /auth/login
@@ -67,3 +71,5 @@ Authorization: Bearer ТокенАвторизации
 - **file** - сам файл обновления
 
 ![updatefile.png](/images/api/updates/updatefile.png){.align-center}
+
+## Ответ
