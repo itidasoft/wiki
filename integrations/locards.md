@@ -2,7 +2,7 @@
 title: Айтида и система лояльности LoCards
 description: Руководство по интеграции с системой LoCard
 published: true
-date: 2022-12-21T10:26:33.345Z
+date: 2025-03-24T13:20:52.359Z
 tags: скидки, бонусы, locards, лояльность
 editor: markdown
 dateCreated: 2022-12-21T10:26:30.552Z
@@ -204,6 +204,29 @@ RETURN true;
 ![Изображение выглядит как текст Автоматически созданное описание](/images/integrations/locards/ec94f11fd9cb24382bd6759ff6db1b9c.png)
 
 Далее необходимо сохранить карточку схемы РМК и перейти к импорту/экспорту карт, если требуется.
+
+## Настройка РМК для разделения продаж по магазинам
+
+Для разделения операций и подключений по магазинам требуется создать карточку оборудования для работы с LoCards по следующему шаблону:
+
+![locards_equipment.png](/images/integrations/locards/locards_equipment.png){.align-center}
+
+**Тип оборудования**: указать "Прочее оборудование"
+**Профиль**: выбрать профиль с названием "Профиль LoCards"
+
+Сохранить карточку оборудования и добавить в схеме РМК в список оборудования для используемых рабочих мест.
+
+![locards_eqlist.png](/images/integrations/locards/locards_eqlist.png){.align-center}
+
+В параметрах РМК перейти к настройке оборудования, выбрать карточку оборудования для LoCards и перейти к настройкам оборудования.
+
+![rmk_locards.png](/images/integrations/locards/rmk_locards.png){.align-center}
+
+В открывшемся окне ввода параметров LoCards ввести ключ API и данные магазина.
+
+![locards_params.png](/images/integrations/locards/locards_params.png){.align-center}
+
+После сохранения параметров все операции по чекам будут отправляться в LoCards с указанием введенных данных по магазину.
 
 ## Выгрузка карт в LoCards
 
