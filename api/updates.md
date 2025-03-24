@@ -2,7 +2,7 @@
 title: API для работы с файлами обновлений
 description: Автообновление РМК
 published: true
-date: 2025-03-24T12:04:21.250Z
+date: 2025-03-24T13:33:59.245Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T08:20:42.981Z
@@ -115,6 +115,7 @@ Authorization: Bearer ТокенАвторизации
 ```
 **message** - сообщение об ошибке авторизации
 **errors** - массив ошибок, содержащий подробные сведения о всех ошибках авторизации
+###
 
 # Запрос получения списка файлов и их версий с датами
 ## GET /files/updatelist
@@ -147,7 +148,7 @@ Authorization: Bearer ТокенАвторизации
 - **filename** - имя файла обновления
 - **date** - дата обновления
 - **version** - версия обновления
-
+###
 
 # Запрос получения файла обновления по дате или версии
 ## GET /files/updatefile
@@ -175,6 +176,13 @@ Authorization: Bearer ТокенАвторизации
 #### 200
 В ответ будет возвращен файл обновления
 
+В заголовке ответа вернутся:
+- Filename - имя файла
+- Fileversion - версия файла
+- Filedate - дата обновления
+
+![headers_f.png](/images/api/updates/headers_f.png)
+
 #### 400
 Если не указан параметр **date** или version
 ```json
@@ -192,3 +200,4 @@ Authorization: Bearer ТокенАвторизации
     "message": "No update file found for this version/date"
 }
 ```
+###
