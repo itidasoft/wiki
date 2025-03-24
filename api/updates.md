@@ -2,7 +2,7 @@
 title: API для работы с файлами обновлений
 description: Автообновление РМК
 published: true
-date: 2025-03-24T09:36:06.553Z
+date: 2025-03-24T09:38:51.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T08:20:42.981Z
@@ -99,6 +99,10 @@ Authorization: Bearer ТокенАвторизации
 **Тело запроса**: отсутствует
 
 ## Ответ
+
+### Tabs {.tabset}
+
+#### 200
 Возвращается массив, содержащий обекты json с реквизитами: filename, date, version
 
 ```json
