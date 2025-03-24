@@ -2,7 +2,7 @@
 title: API для работы с файлами обновлений
 description: Автообновление РМК
 published: true
-date: 2025-03-24T11:57:22.267Z
+date: 2025-03-24T11:59:37.830Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T08:20:42.981Z
@@ -187,6 +187,6 @@ Authorization: Bearer ТокенАвторизации
 ```json
 {
     "status": false,
-    "message": "No update file found for this date"
+    "message": "No update file found for this version/date"
 }
 ```
