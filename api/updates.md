@@ -2,7 +2,7 @@
 title: API для работы с файлами обновлений
 description: Автообновление РМК
 published: false
-date: 2025-03-24T08:49:04.491Z
+date: 2025-03-24T08:51:59.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T08:20:42.981Z
@@ -73,3 +73,20 @@ Authorization: Bearer ТокенАвторизации
 ![updatefile.png](/images/api/updates/updatefile.png){.align-center}
 
 ## Ответ
+
+```json 
+{
+    "status": true,
+    "message": "Файл обновления загружен",
+    "data": {
+        "name": "update_DB_469-EXEDLL_469.cab",
+        "mimetype": "application/vnd.ms-cab-compressed",
+        "size": 25561368
+    }
+}
+```
+- **status** - признак успешного (true) или неуспешного (false) результата загрузки файла на сервер
+- **message** - сообщение о результате загрузки файла
+- **data.name** - имя загруженного файла
+- **data.mimetype** - тип загруженного файла
+- **data.size** - размер файла
