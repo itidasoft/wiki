@@ -1,8 +1,8 @@
 ---
 title: API для работы с файлами обновлений
 description: Автообновление РМК
-published: false
-date: 2025-03-24T09:01:41.967Z
+published: true
+date: 2025-03-24T09:02:02.099Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-24T08:20:42.981Z
