@@ -2,7 +2,7 @@
 title: Изменения в версиях
 description: История изменений
 published: true
-date: 2025-04-15T13:13:41.293Z
+date: 2025-04-15T13:16:20.845Z
 tags: новый релиз, версия, исправление, новый функционал
 editor: markdown
 dateCreated: 2022-08-18T20:00:53.342Z
