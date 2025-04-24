@@ -2,7 +2,7 @@
 title: Раздел для разработчиков
 description: 
 published: true
-date: 2025-01-21T09:58:49.779Z
+date: 2025-04-24T14:21:33.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-07T12:41:14.891Z
@@ -20,4 +20,5 @@ dateCreated: 2023-12-07T12:41:14.891Z
 - [:blue_book: РМК: Расширенные свойства строк](/dev/rmkprops)
 - [:blue_book: РМК: Расширенные настройка строк подвала](/dev/rmk-footer)
 - [:blue_book: РМК: отладка и вывод ошибок](/dev/rmk-errors)
+- [:blue_book: Айтида: разделение заданий планировщики по службам](/dev/servicename)
 {.links-list}
