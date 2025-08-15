@@ -2,7 +2,7 @@
 title: Пример запроса параметров
 description: 
 published: true
-date: 2025-08-15T07:24:25.883Z
+date: 2025-08-15T07:25:04.209Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T09:37:51.047Z
@@ -74,7 +74,7 @@ InputMask="+7(000)000-00-00" Required= "True"
 
 Пример:
 ```xml
-        <Parameter Name="phone" Caption="Телефон" Description="Телефон" ResetList= "gender" CheckList= "gender" TypeValue="String" ReadOnly="True" InputMask="+7(000)000-00-00" Required= "True">
+        <Parameter Name="phone" Caption="Телефон" Description="Телефон" ResetList="gender" CheckList="gender" TypeValue="String" ReadOnly="True" InputMask="+7(000)000-00-00" Required= "True">
           <check_script>
               ДЛИНА( ЗАМЕНИТЬ( ЗАМЕНИТЬ( ЗАМЕНИТЬ( phone, ''('', '''' ), '')'', '''' ), ''-'', '''' ) ) >= 9;
           </check_script>
