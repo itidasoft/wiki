@@ -2,7 +2,7 @@
 title: Айтида и Mobile Smarts
 description: Настройка интеграции с ПО Mobile Smarts
 published: true
-date: 2022-12-21T17:32:57.588Z
+date: 2025-08-21T11:18:17.423Z
 tags: тсд, mobile smarts, cleverence
 editor: markdown
 dateCreated: 2022-12-21T08:48:35.850Z
@@ -13,17 +13,17 @@ dateCreated: 2022-12-21T08:48:35.850Z
 ![](/images/integrations/mobilesmarts/a216e18e83c811bff362dfc220a56d76.png){.align-center}
 
 
-2. Скачать архив с профилем для Mobile Smarts с сайта по сслыке [MobileSmarts.zip](/https://itida.ru/files/86/--/46/MobileSmarts.zip). Распаковать архив во временный каталог.
+2. Скачать архив с актуальными профилями и архив с параметрами системы с сайта по сслыке [https://itida.ru/obnovleniya-i-profili/profili-oborudovaniya-algoritmy-parametry-i-funktsii](https://itida.ru/obnovleniya-i-profili/profili-oborudovaniya-algoritmy-parametry-i-funktsii) (файл parameters....zip и profiles....zip. Распаковать архивы в каталог на диске. Так же скачать 
 3.  Запустить программу Айтида с NFR ключом в режиме расширенного конфигурирования.
 	Зайти в меню Сервис-Настройка системы-Настройка параметров системы.
 	
 ![](/images/integrations/mobilesmarts/43d01d21989215a6d12eb18d22b3b1f1.png){.align-center}
 
-Загрузить в открывшийся справочник параметров файл «ПАРАМЕТРЫ_СМАРТС.CNT» из архива с профилями.
+Загрузить в открывшийся справочник параметры из файла «parameters....CNT».
 
 ![](/images/integrations/mobilesmarts/bb4627c5c916c76ce0248d2e65927f9b.png){.align-center}
 
-В открывшемся списке выбрать все параметры и загрузить в базу.
+В открывшемся списке найти и выбрать следующие параметры: MS_ВЫБОРДОКУМЕНТОВ, MS_контроль_количества и MS_серверный_документ.
 
 ![](/images/integrations/mobilesmarts/80a66dabe8e9d94e405b34b2c4f59d58.png){.align-center}
 
@@ -43,7 +43,7 @@ dateCreated: 2022-12-21T08:48:35.850Z
 
 4.  Зайти в Айтиде в справочник профилей оборудования (Параметры-Справочник профилей оборудования) и загрузить профиль из файла
 
-"ОБМЕН С MS МАГ 15 V.Х.Х.CNT" или "ПРОФИЛЬ ТСД MOBILESMARTS ЕГАИС ЧЕРЕЗ COM V.Х.Х"
+"Профиль ТСД MobileSmarts Магазин 15 (для интеграции OLE/COM) v.Х.Х.CNT" или "Профиль ТСД MobileSmarts ЕГАИС 3 (для интеграции OLE/COM) V.Х.Х"
 
 5.  В справочнике торгового оборудования создать карточку оборудования для ТСД.
 
