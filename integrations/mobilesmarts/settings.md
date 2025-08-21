@@ -2,7 +2,7 @@
 title: Айтида и Mobile Smarts
 description: Настройка интеграции с ПО Mobile Smarts
 published: true
-date: 2025-08-21T11:18:17.423Z
+date: 2025-08-21T11:18:41.781Z
 tags: тсд, mobile smarts, cleverence
 editor: markdown
 dateCreated: 2022-12-21T08:48:35.850Z
@@ -13,7 +13,7 @@ dateCreated: 2022-12-21T08:48:35.850Z
 ![](/images/integrations/mobilesmarts/a216e18e83c811bff362dfc220a56d76.png){.align-center}
 
 
-2. Скачать архив с актуальными профилями и архив с параметрами системы с сайта по сслыке [https://itida.ru/obnovleniya-i-profili/profili-oborudovaniya-algoritmy-parametry-i-funktsii](https://itida.ru/obnovleniya-i-profili/profili-oborudovaniya-algoritmy-parametry-i-funktsii) (файл parameters....zip и profiles....zip. Распаковать архивы в каталог на диске. Так же скачать 
+2. Скачать архив с актуальными профилями и архив с параметрами системы с сайта по сслыке [https://itida.ru/obnovleniya-i-profili/profili-oborudovaniya-algoritmy-parametry-i-funktsii](https://itida.ru/obnovleniya-i-profili/profili-oborudovaniya-algoritmy-parametry-i-funktsii) (файл parameters....zip и profiles....zip). Распаковать архивы в каталог на диске. Так же скачать 
 3.  Запустить программу Айтида с NFR ключом в режиме расширенного конфигурирования.
 	Зайти в меню Сервис-Настройка системы-Настройка параметров системы.
 	
